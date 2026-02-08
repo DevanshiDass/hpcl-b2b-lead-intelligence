@@ -202,3 +202,57 @@ Prototype prioritizes clarity, correctness, and scalability over overengineering
 - Defends design choices (rules, explainability, sandboxing)
 
 This README can **replace your pitch entirely**.
+
+---
+
+---
+
+## 📸 UI Screenshots & Demo Assets
+
+To support review without a live demo, the repository includes a comprehensive set of **application screenshots** covering all major system components.
+
+All screenshots are available in the **`/screenshots`** folder at the root of this repository.
+
+### Included Screenshots
+
+#### 📱 Mobile Sales Application (PWA-style)
+- New Lead Discovery screen
+- Lead Dossier detail view
+- Sales notification / outreach action flow
+
+These screens demonstrate the mobile-first workflow designed for HPCL field sales officers, enabling rapid lead review and action.
+
+---
+
+#### 📊 Executive Dashboard
+- Executive KPIs and conversion funnel
+- Product-wise and sector-wise insights
+
+This view provides leadership with macro-level visibility into demand trends and sales pipeline health.
+
+---
+
+#### 🛢️ Product Intelligence
+- Inferred product recommendations
+- Explainable reason codes mapped to industrial signals
+
+This illustrates how public signals are converted into HPCL Direct Sales product insights.
+
+---
+
+#### 🌍 Regional Performance Insights
+- Geographic distribution of leads
+- Regional concentration of demand signals
+
+Designed to support territory planning and resource allocation.
+
+---
+
+#### 📄 Lead Dossier Output
+- Generated structured Lead Dossier
+- Consolidated view of company profile, inferred demand, urgency, and next-best-action
+
+This represents the final sales-ready output consumed by the field sales team.
+
+> **Note:** Reviewers are encouraged to open the `screenshots/` folder to view all UI and dashboard visuals corresponding to the above components.
+
