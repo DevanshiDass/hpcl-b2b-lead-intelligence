@@ -1,0 +1,201 @@
+company,location,text,label
+ABC Chemicals,Raipur,"Tender for furnace oil supply",FO
+XYZ Infra,Nagpur,"Road construction project tender",Bitumen
+MarineCo,Mumbai,"Bunker fuel requirement for vessels",Marine Fuel
+PowerGen Ltd,Odisha,"New captive power plant commissioning",HSD
+SteelCore,Raigarh,"Requirement of furnace oil for rolling mill",FO
+BuildMax,Pune,"Bitumen procurement for highway expansion",Bitumen
+Oceanic Lines,Kochi,"Marine fuel supply for cargo ships",Marine Fuel
+ThermoPower,Chhattisgarh,"HSD needed for diesel generators",HSD
+ChemPro,Ankleshwar,"Annual furnace oil contract",FO
+InfraLink,Indore,"Bitumen tender for flyover construction",Bitumen
+SeaTrans,Chennai,"Marine fuel requirement for port operations",Marine Fuel
+GenX Power,Jharkhand,"HSD supply for backup power systems",HSD
+AlloyWorks,Bhilai,"Furnace oil purchase for foundry",FO
+RoadBuild Ltd,Jaipur,"Bitumen supply for state highways",Bitumen
+BlueWave Shipping,Mumbai,"Marine fuel requirement for container fleet",Marine Fuel
+DieselTech,Patna,"HSD for industrial machinery",HSD
+PetroChemix,Vadodara,"Furnace oil for chemical processing unit",FO
+UrbanInfra,Bhopal,"Bitumen tender for city road repair",Bitumen
+HarborLines,Vizag,"Marine fuel supply for docking vessels",Marine Fuel
+ElectroGen,Assam,"HSD for power backup generators",HSD
+IronForge,Durg,"Bulk furnace oil requirement",FO
+MegaInfra,Lucknow,"Bitumen requirement for expressway project",Bitumen
+SeaBridge,Kandla,"Marine fuel tender for port vessels",Marine Fuel
+AgroPower,Punjab,"HSD for agro-based power plant",HSD
+ChemWorks,Panipat,"Furnace oil for manufacturing operations",FO
+HighwayCorp,Surat,"Bitumen supply for NH project",Bitumen
+NavalTrans,Goa,"Marine fuel requirement for patrol vessels",Marine Fuel
+PowerServe,Ranchi,"HSD procurement for DG sets",HSD
+MetalCast,Kolhapur,"Furnace oil supply contract",FO
+CityInfra,Noida,"Bitumen for urban road resurfacing",Bitumen
+OceanFleet,Mangalore,"Marine fuel supply for fishing vessels",Marine Fuel
+BackupGen,Meerut,"HSD for emergency power systems",HSD
+RefineChem,Dahej,"Furnace oil for refinery operations",FO
+RoadWays,Amritsar,"Bitumen tender for bypass road",Bitumen
+SeaLogistics,Tuticorin,"Marine fuel supply for export vessels",Marine Fuel
+IndusPower,Bellary,"HSD requirement for thermal plant",HSD
+FoundryPlus,Howrah,"Furnace oil for casting unit",FO
+InfraPrime,Gwalior,"Bitumen procurement for ring road",Bitumen
+MaritimeOps,Porbandar,"Marine fuel requirement for coastal ships",Marine Fuel
+GenVolt,Nashik,"HSD for industrial generators",HSD
+ChemZone,Vapi,"Furnace oil tender for chemical unit",FO
+BuildRight,Udaipur,"Bitumen for road widening project",Bitumen
+OceanRoute,Paradip,"Marine fuel supply for bulk carriers",Marine Fuel
+RuralPower,Bihar,"HSD for village electrification DGs",HSD
+SteelLine,Angul,"Furnace oil requirement for steel plant",FO
+InfraAxis,Faridabad,"Bitumen tender for service roads",Bitumen
+PortLink,Haldia,"Marine fuel supply for port crafts",Marine Fuel
+EnergyCore,Coimbatore,"HSD for captive generators",HSD
+CastingHub,Satara,"Furnace oil for metal treatment",FO
+RoadNet,Dehradun,"Bitumen supply for hill roads",Bitumen
+SeaCarrier,Karwar,"Marine fuel requirement for naval support",Marine Fuel
+PowerGrid Services,Silchar,"HSD for substation generators",HSD
+ChemStar,Aurangabad,"Furnace oil for batch reactors",FO
+InfraBuilders,Siliguri,"Bitumen tender for border roads",Bitumen
+MarineTech,Alleppey,"Marine fuel supply for houseboats",Marine Fuel
+GenSafe,Rewa,"HSD for hospital backup generators",HSD
+PrimeChem,Dhanbad,"Furnace oil requirement for chemical boiler",FO
+RoadTech,Sambalpur,"Bitumen tender for rural road development",Bitumen
+SeaCargo,Veraval,"Marine fuel requirement for fishing fleet",Marine Fuel
+VoltGen,Kurnool,"HSD supply for standby generators",HSD
+IndChem,Kanpur,"Furnace oil supply for dye manufacturing",FO
+InfraWorks,Solapur,"Bitumen procurement for city roads",Bitumen
+BlueOcean,Okha,"Marine fuel tender for coastal transport",Marine Fuel
+DieselCorp,Bareilly,"HSD for construction equipment",HSD
+HeatFlow,Muzaffarnagar,"Furnace oil requirement for heating systems",FO
+RoadInfra,Hisar,"Bitumen supply for state highway upgrade",Bitumen
+MarineFleet,Port Blair,"Marine fuel for inter-island vessels",Marine Fuel
+PowerPlus,Alwar,"HSD requirement for industrial DG sets",HSD
+ChemLine,Bharuch,"Furnace oil for continuous process plant",FO
+InfraSphere,Rourkela,"Bitumen tender for industrial roads",Bitumen
+OceanPath,Beypore,"Marine fuel supply for cargo barges",Marine Fuel
+EnergyServe,Bilaspur,"HSD for emergency power backup",HSD
+AlliedChem,Nanded,"Furnace oil for bulk chemical production",FO
+BuildWay,Rewari,"Bitumen procurement for highway repair",Bitumen
+MarineTrade,Cuddalore,"Marine fuel requirement for port vessels",Marine Fuel
+GenPower,Satna,"HSD for power generation units",HSD
+ThermoChem,Akola,"Furnace oil for thermal processing",FO
+InfraLine,Barmer,"Bitumen tender for desert roads",Bitumen
+SeaMove,Kakinada,"Marine fuel supply for offshore support",Marine Fuel
+DieselMax,Hapur,"HSD for heavy duty generators",HSD
+ProcessChem,Neemrana,"Furnace oil requirement for process heating",FO
+RoadCraft,Chandrapur,"Bitumen supply for mining roads",Bitumen
+MarineEdge,Navlakhi,"Marine fuel for port operations",Marine Fuel
+VoltServe,Etah,"HSD for backup power systems",HSD
+ChemFlow,Baddi,"Furnace oil supply for pharma plant",FO
+InfraGrid,Palwal,"Bitumen tender for service lanes",Bitumen
+OceanLink,Ratnagiri,"Marine fuel requirement for coastal shipping",Marine Fuel
+GenSupport,Basti,"HSD for telecom tower DGs",HSD
+HeatChem,Dewas,"Furnace oil for industrial furnaces",FO
+RoadPlus,Jalore,"Bitumen procurement for rural connectivity",Bitumen
+SeaRoute,Mormugao,"Marine fuel supply for bulk carriers",Marine Fuel
+PowerAssist,Balaghat,"HSD for remote power units",HSD
+IndusChem,Chittoor,"Furnace oil for resin manufacturing",FO
+InfraTrack,Rohtak,"Bitumen tender for flyover project",Bitumen
+MarineWave,Thoothukudi,"Marine fuel requirement for harbor crafts",Marine Fuel
+DieselAid,Gonda,"HSD for emergency response vehicles",HSD
+ChemPlant,Karad,"Furnace oil for continuous reactors",FO
+RoadSpan,Ambala,"Bitumen supply for expressway repairs",Bitumen
+SeaLift,Alang,"Marine fuel supply for ship recycling units",Marine Fuel
+GenLine,Baripada,"HSD for backup power plants",HSD
+FuelChem,Ichalkaranji,"Furnace oil for textile processing",FO
+InfraRoute,Anantapur,"Bitumen tender for district roads",Bitumen
+MarineFlow,Jamkhambhaliya,"Marine fuel requirement for port vessels",Marine Fuel
+PowerCore,Shivpuri,"HSD for grid support generators",HSD
+ChemForce,Pithampur,"Furnace oil for industrial boilers",FO
+RoadMatrix,Buxar,"Bitumen supply for road strengthening",Bitumen
+OceanServe,Bandar Abbas,"Marine fuel supply for shipping operations",Marine Fuel
+GenFuel,Sirohi,"HSD for solar hybrid plants",HSD
+ProcessFuel,Sitapur,"Furnace oil requirement for process heating",FO
+InfraBuild,Medak,"Bitumen tender for irrigation roads",Bitumen
+MarineNet,Port Blair,"Marine fuel supply for patrol boats",Marine Fuel
+DieselFlow,Bijnor,"HSD for agricultural machinery",HSD
+ThermalChem,Gondia,"Furnace oil for thermal oil heaters",FO
+RoadLink,Khargone,"Bitumen procurement for town roads",Bitumen
+SeaLogix,Pipavav,"Marine fuel requirement for container ships",Marine Fuel
+PowerFuel,Daltonganj,"HSD for microgrid generators",HSD
+ChemEquip,Valsad,"Furnace oil supply for equipment testing",FO
+InfraWay,Churu,"Bitumen tender for rural highways",Bitumen
+MarineCore,New Mangalore,"Marine fuel for port service vessels",Marine Fuel
+GenPowerX,Raichur,"HSD for auxiliary generators",HSD
+ChemSolutions,Haridwar,"Furnace oil requirement for process heaters",FO
+RoadMakers,Etawah,"Bitumen tender for highway resurfacing",Bitumen
+SeaBridge Lines,Dwarka,"Marine fuel requirement for coastal vessels",Marine Fuel
+GenPowerTech,Mandla,"HSD for backup diesel generators",HSD
+FuelChem Industries,Pali,"Furnace oil supply for ceramic kilns",FO
+InfraConstructors,Karimnagar,"Bitumen procurement for urban roads",Bitumen
+OceanStar Shipping,Okha,"Marine fuel supply for tanker vessels",Marine Fuel
+DieselWorks,Chitradurga,"HSD requirement for mining equipment",HSD
+ThermoFuel,Beawar,"Furnace oil for industrial heating applications",FO
+RoadConnect,Kishangarh,"Bitumen tender for arterial roads",Bitumen
+MarineLogistics,Karaikal,"Marine fuel requirement for port operations",Marine Fuel
+PowerShield,Barabanki,"HSD for hospital power backup",HSD
+ChemEnergy,Balaghat,"Furnace oil supply for chemical reactors",FO
+InfraLine Projects,Dausa,"Bitumen supply for road widening",Bitumen
+SeaLink Maritime,Mandvi,"Marine fuel requirement for fishing boats",Marine Fuel
+GenForce,Palamu,"HSD for telecom tower generators",HSD
+HeatSource Chemicals,Khammam,"Furnace oil for thermal processing unit",FO
+BuildWell Infra,Katni,"Bitumen procurement for concrete roads",Bitumen
+Oceanic Support,Dhamra,"Marine fuel for port service crafts",Marine Fuel
+DieselPrime,Arrah,"HSD for construction machinery",HSD
+ProcessFuel Corp,Amreli,"Furnace oil requirement for process boilers",FO
+RoadEdge Developers,Mandsaur,"Bitumen tender for bypass construction",Bitumen
+MarineFleet Services,Malpe,"Marine fuel requirement for coastal fleet",Marine Fuel
+GenAssist,Shahdol,"HSD for standby generators",HSD
+ChemHeat Systems,Jhajjar,"Furnace oil for industrial furnaces",FO
+InfraWorks India,Sirohi,"Bitumen supply for hill road projects",Bitumen
+SeaCargo Movers,Revdanda,"Marine fuel supply for cargo barges",Marine Fuel
+PowerServe India,Morena,"HSD for grid backup units",HSD
+FuelTech Industries,Tenkasi,"Furnace oil requirement for heat exchangers",FO
+RoadAxis Projects,Kanker,"Bitumen tender for district road repair",Bitumen
+MarineWave Logistics,Kalpeni,"Marine fuel requirement for island transport",Marine Fuel
+DieselPoint,Gopalganj,"HSD for agricultural generators",HSD
+ThermalFlow Chemicals,Unnao,"Furnace oil supply for thermal fluid heaters",FO
+InfraConnect Ltd,Chikkaballapur,"Bitumen procurement for state roads",Bitumen
+SeaTrade Lines,Betul Port,"Marine fuel requirement for support vessels",Marine Fuel
+GenPower Services,Mahoba,"HSD for emergency DG sets",HSD
+ChemBurn Industries,Parwanoo,"Furnace oil for pharmaceutical plant",FO
+RoadSpan Infra,Washim,"Bitumen tender for rural connectivity",Bitumen
+MarineOps India,Mulki,"Marine fuel supply for port crafts",Marine Fuel
+DieselCare,Sheopur,"HSD for water supply pumping stations",HSD
+HeatPro Chemicals,Dharuhera,"Furnace oil for manufacturing boilers",FO
+InfraBuild Systems,Koppal,"Bitumen procurement for highway shoulders",Bitumen
+SeaWay Shipping,Arnala,"Marine fuel requirement for passenger ferries",Marine Fuel
+GenVolt Power,Bundi,"HSD for remote power generation",HSD
+FuelStream Chemicals,Raisen,"Furnace oil requirement for batch processes",FO
+RoadCraft Infra,Nandurbar,"Bitumen supply for ghat roads",Bitumen
+MarineEdge Services,Mahe,"Marine fuel supply for coastal logistics",Marine Fuel
+DieselLine,Chandauli,"HSD for irrigation pump generators",HSD
+ThermoChem Systems,Dholpur,"Furnace oil for thermal ovens",FO
+InfraRoute Developers,Kasaragod,"Bitumen tender for road rehabilitation",Bitumen
+SeaAssist Maritime,Honnavar,"Marine fuel requirement for tugboats",Marine Fuel
+GenPower Utilities,Sidhi,"HSD for auxiliary generators",HSD
+ChemSource Industries,Hosur,"Furnace oil supply for chemical blending",FO
+RoadMatrix Projects,Palghar,"Bitumen procurement for municipal roads",Bitumen
+MarineNet Shipping,Salaya,"Marine fuel requirement for harbor vessels",Marine Fuel
+DieselFuel Systems,Jamui,"HSD for backup power installations",HSD
+HeatCore Chemicals,Kheda,"Furnace oil for heat treatment units",FO
+InfraLift Projects,Anjar,"Bitumen tender for port access roads",Bitumen
+SeaFront Logistics,Mahad,"Marine fuel supply for coastal barges",Marine Fuel
+GenFlow Power,Chatra,"HSD for rural electrification DGs",HSD
+FuelBurn Industries,Sangareddy,"Furnace oil requirement for process heating",FO
+RoadLink Infra,Kulgam,"Bitumen supply for mountain roads",Bitumen
+MarineTrack Lines,Diu,"Marine fuel requirement for tourism vessels",Marine Fuel
+DieselEnergy,Arwal,"HSD for emergency generator sets",HSD
+ThermalEdge Chemicals,Panchkula,"Furnace oil supply for industrial heaters",FO
+InfraCore Developers,Udalguri,"Bitumen procurement for border roads",Bitumen
+SeaLine Maritime,Mithapur,"Marine fuel supply for service boats",Marine Fuel
+GenAssist Power,Sheikhpura,"HSD for load backup systems",HSD
+ChemFlow Industries,Bhachau,"Furnace oil for continuous process units",FO
+RoadNet Projects,Nilgiris,"Bitumen tender for hill road maintenance",Bitumen
+MarineForce Shipping,Navlakhi Port,"Marine fuel requirement for cargo handling",Marine Fuel
+DieselSupport,Balaghat,"HSD for backup DG installations",HSD
+HeatFuel Systems,Barwani,"Furnace oil for industrial dryers",FO
+InfraPath Developers,Raebareli,"Bitumen procurement for ring road project",Bitumen
+SeaCargo India,Beypore Port,"Marine fuel requirement for logistics fleet",Marine Fuel
+GenPower Solutions,Khunti,"HSD for power backup generators",HSD
+ChemTherm Industries,Patan,"Furnace oil supply for thermal reactors",FO
+RoadPlus Infra,Mokokchung,"Bitumen tender for intercity roads",Bitumen
+MarineWave India,Tarapur Port,"Marine fuel supply for operational vessels",Marine Fuel
+DieselPrime Systems,Sheohar,"HSD for standby diesel engines",HSD

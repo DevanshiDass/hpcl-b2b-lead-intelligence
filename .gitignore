@@ -1,0 +1,5 @@
+hc/
+pycache/
+*.pyc
+.env
+PICTURES/
